@@ -1,5 +1,5 @@
 # Learn more. Do more. Share more.
-SANS asked me if I had a Cyber Resolution for 2020.  I initially chucled about "Cyber Reasolutions", but in a world where you can buy a "Cyber Truck", maybe Cyber Resolutions are actually a thing. ¯\_(ツ)_/¯  
+SANS asked me if I had a Cyber Resolution for 2020.  I initially chucled about "Cyber Reasolutions", but in a world where you can buy a "Cyber Truck", maybe Cyber Resolutions are actually a thing. ¯\\_(ツ)_/¯  
 
 Anyhow, today, January 1, 2020, after forgetting about the email for almost 3 weeks, I gave it some thought and responded with a motto instead of a resolution:
 
